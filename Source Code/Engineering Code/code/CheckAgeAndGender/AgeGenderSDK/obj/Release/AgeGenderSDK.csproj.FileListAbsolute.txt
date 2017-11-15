@@ -1,0 +1,5 @@
+D:\code\InstallFolder\AgeGenderSDK.dll
+D:\code\InstallFolder\AgeGenderSDK.pdb
+D:\code\CheckAgeAndGender\AgeGenderSDK\obj\Release\AgeGenderSDK.dll
+D:\code\CheckAgeAndGender\AgeGenderSDK\obj\Release\AgeGenderSDK.pdb
+D:\code\CheckAgeAndGender\AgeGenderSDK\obj\Release\AgeGenderSDK.csprojResolveAssemblyReference.cache

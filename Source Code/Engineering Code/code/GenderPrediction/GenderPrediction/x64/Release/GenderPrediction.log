@@ -1,0 +1,17 @@
+﻿生成启动时间为 2016/12/28 15:41:08。
+     1>项目“D:\code\GenderPrediction\GenderPrediction\GenderPrediction.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /ID:\code\InstallFolder\include /Zi /nologo /W3 /WX- /sdl /O2 /Oi /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"x64\Release\GenderPrediction.pch" /Fo"x64\Release\\" /Fd"x64\Release\vc120.pdb" /Gd /TP /errorReport:prompt GenderPrediction.cpp
+         GenderPrediction.cpp
+     1>D:\code\InstallFolder\include\libcaffe.h(42): warning C4091: “__declspec(dllexport)”: 没有声明变量时忽略“MultiClassifier”的左侧
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"D:\code\GenderPrediction\x64\Release\GenderPrediction.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:D:\code\InstallFolder\lib libcaffe.lib opencv_highgui2410.lib opencv_core2410.lib opencv_imgproc2410.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\code\GenderPrediction\x64\Release\GenderPrediction.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\code\GenderPrediction\x64\Release\GenderPrediction.lib" /MACHINE:X64 x64\Release\GenderPrediction.obj
+         x64\Release\stdafx.obj
+         正在生成代码
+         已完成代码的生成
+         GenderPrediction.vcxproj -> D:\code\GenderPrediction\x64\Release\GenderPrediction.exe
+     1>已完成生成项目“D:\code\GenderPrediction\GenderPrediction\GenderPrediction.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.88

@@ -1,0 +1,5 @@
+D:\code\InstallFolder\libcaffe\LibcaffeSDK.dll
+D:\code\InstallFolder\libcaffe\LibcaffeSDK.pdb
+D:\code\CheckAgeAndGender\LibcaffeSDK\obj\Release\LibcaffeSDK.csprojResolveAssemblyReference.cache
+D:\code\CheckAgeAndGender\LibcaffeSDK\obj\Release\LibcaffeSDK.dll
+D:\code\CheckAgeAndGender\LibcaffeSDK\obj\Release\LibcaffeSDK.pdb
